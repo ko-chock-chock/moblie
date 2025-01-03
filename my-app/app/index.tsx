@@ -1,12 +1,12 @@
 
-import DeviceApiRefactoringPage from "@/components";
+import MainPage from "@/components/main";
 
 
 
 export default function 나의시작화면 () {
 
     return (
-        <DeviceApiRefactoringPage />
+        <MainPage />
     )
 }
 
